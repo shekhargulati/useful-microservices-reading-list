@@ -4,7 +4,7 @@ This repository houses list of articles and videos that cover practical aspects 
 
 ## Why Microservices?
 
-TODO
+1. Microservice Architecture at Medium - [Link](https://medium.engineering/microservice-architecture-at-medium-9c33805eb74f)
 
 ## Should it be a Microservice?
 
