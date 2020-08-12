@@ -6,6 +6,14 @@ This repository houses list of articles and videos that cover practical aspects 
 
 TODO
 
+## Communication patterns
+
+TODO
+
+## Platform
+
+TODO
+
 ## Practical Useful Talks
 
 1. To Microservices and Back Again - [Link](https://www.infoq.com/presentations/microservices-monolith-antipatterns/)
