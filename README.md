@@ -22,6 +22,11 @@ TODO
 
 TODO
 
+## Monolithic to Microservices
+
+### Decomposition patterns
+
 ## Practical Useful Talks
 
 1. To Microservices and Back Again - [Link](https://www.infoq.com/presentations/microservices-monolith-antipatterns/)
+2. Monolith Decomposition Patterns - [Link](https://www.infoq.com/presentations/microservices-principles-patterns/)
