@@ -12,7 +12,7 @@ TODO
 
 ## Mono-repo vs Repo per service
 
-TODO
+1. Attack of the Monorepos - [Link](https://www.infoq.com/presentations/monorepos/)
 
 ## Communication patterns
 
@@ -25,6 +25,14 @@ TODO
 ## Monolithic to Microservices
 
 ### Decomposition patterns
+
+## Distributed transactions
+
+TODO
+
+## Caching
+
+TODO
 
 ## Practical Useful Talks
 
