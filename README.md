@@ -62,11 +62,12 @@ This repository houses list of articles and videos that cover practical aspects 
 
 1. Attack of the Monorepos - [Link](https://www.infoq.com/presentations/monorepos/)
 
-## Microservices Anti-patterns
+## Microservices Anti-patterns and Pitfalls
 
 1. Microservices antipatterns and pitfalls - [Link](https://www.oreilly.com/content/microservices-antipatterns-and-pitfalls/)
 2. 11 Reasons Why You Are Going To Fail With Microservices - [Link](https://medium.com/xebia-engineering/11-reasons-why-you-are-going-to-fail-with-microservices-29b93876268b)
 3. :video_camera: To Microservices and Back Again - [Link](https://www.infoq.com/presentations/microservices-monolith-antipatterns/)
+4. Microservices pitfalls - [Link](https://natalian.org/2019/05/16/Microservices_pitfalls/)
 
 ## Microservices Survey
 
