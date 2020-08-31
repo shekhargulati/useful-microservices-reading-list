@@ -2,7 +2,7 @@
 
 > **We don't need more useless `awesome lists`. We need useful reading lists that help us learn various practical aspects about a topic.**
 
-This repository houses list of articles and videos that cover practical aspects of Microservices. It is not your just another awesome list. Its main purpose is to be useful rather than just another stupid list.
+This repository has list of articles and videos that cover practical aspects of Microservices. It is not your just another awesome list. Its main purpose is to be useful rather than just another stupid list.
 
 ## Monolith first
 
