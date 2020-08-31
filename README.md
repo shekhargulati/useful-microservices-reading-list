@@ -1,6 +1,6 @@
-# practical-microservices
+# Useful Microservices Reading List
 
-> **We don't need more useless `awesome lists`. We need useful reading lists that offer practical advice on a topic.**
+> **We don't need more useless `awesome lists`. We need useful reading lists that help us learn various practical aspects about a topic.**
 
 This repository houses list of articles and videos that cover practical aspects of Microservices. It is not your just another awesome list. Its main purpose is to be useful rather than just another stupid list.
 
@@ -20,6 +20,11 @@ This repository houses list of articles and videos that cover practical aspects 
 1. :memo: Microservice Prerequisites - [Link](https://martinfowler.com/bliki/MicroservicePrerequisites.html)
 3. :memo: Microservices Architecture Guidelines - [Link](https://github.com/justinamiller/Microservices-Architecture-Guidelines)
 3. :memo: Microservices: To Do or Not to Do - LInk - [Link](http://www.bestdevops.com/microservices-to-do-or-not-to-do/)
+4. :video_camera: Microservices by Martin Fowler - [Link](https://www.youtube.com/watch?v=wgdBVIX9ifA)
+
+## Should it be a Microservice?
+
+1. :memo: Should that be a Microservice? Keep These Six Factors in Mind - [Link](https://tanzu.vmware.com/content/blog/should-that-be-a-microservice-keep-these-six-factors-in-mind)
 
 ## Mono-repo vs Repo per service
 
@@ -28,15 +33,9 @@ This repository houses list of articles and videos that cover practical aspects 
 3. :video_camera: Attack of the Monorepos - [Link](https://www.infoq.com/presentations/monorepos/)
 4. :memo: Put your Microservices in a Monorepo - [Link](https://blog.upcoding.fr/microservices-in-a-monorepo/)
 
-
-## Should it be a Microservice?
-
-1. TODO
-
-
 ## Communication patterns
 
-1. TODO
+1. :memo: Communication in a microservice architecture - [Link](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/communication-in-microservice-architecture)
 
 ## Shared libraries
 
@@ -44,23 +43,20 @@ This repository houses list of articles and videos that cover practical aspects 
 
 ## Data Consistency
 
-1. :memo:  Airbnb: Avoiding Double Payments in a Distributed Payments System - [Link](https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb)
 2. :memo:  Data consistency in microservices architecture - [Link](https://ebaytech.berlin/data-consistency-in-microservices-architecture-bf99ba31636f)
 3. :video_camera: Managing Data in Microservices - [Link](https://www.infoq.com/presentations/microservices-managing-data/)
+3. :memo:  Airbnb: Avoiding Double Payments in a Distributed Payments System - [Link](https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb)
 
-## Event sourcing and CQRS
+## DDD and CQRS
 
-1. :memo: Datomic: Event Sourcing without the hassle - [Link](https://vvvvalvalval.github.io/posts/2018-11-12-datomic-event-sourcing-without-the-hassle.html)
-2. 
+1. :memo: Tackle Business Complexity in a Microservice with DDD and CQRS Patterns - [Link](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/)
+2. :memo: Core Domain Patterns - [Link](https://medium.com/nick-tune-tech-strategy-blog/core-domain-patterns-941f89446af5) 
+3. :memo: Datomic: Event Sourcing without the hassle - [Link](https://vvvvalvalval.github.io/posts/2018-11-12-datomic-event-sourcing-without-the-hassle.html)
 
 ## Caching
 
 1. :memo: Caching strategies - [Link](https://zubialevich.blogspot.com/2018/08/caching-strategies.html)
 2. :memo: Blazing Fast Data Lookup in a Microservices World - [Link](https://medium.com/capital-one-tech/blazing-fast-data-lookup-in-a-microservices-world-dd3ae548ca45)
-
-## Domain-driven design
-
-1. :memo: Core Domain Patterns - [Link](https://medium.com/nick-tune-tech-strategy-blog/core-domain-patterns-941f89446af5) 
 
 ## Testing
 
@@ -80,7 +76,13 @@ This repository houses list of articles and videos that cover practical aspects 
 
 ## Security
 
-1. TODO
+1. :video_camera: Security and Microservices - [Link](https://www.youtube.com/watch?v=ZXGaC3GR3zU)
+2. :video_camera: Practical Microservice Security - [Link](https://www.youtube.com/watch?v=CseYwoLjBb0)
+3. :video_camera: Top 10 Security Best Practices to secure your Microservices - [Link](https://www.youtube.com/watch?v=VtUQINsYXDM)
+
+## Microservices Governance
+
+1. :memo: Microservices Technical Governance - [Link](https://medium.com/ibm-garage/microservices-technical-governance-f5aed10189d1)
 
 ## Monolithic to Microservices
 
@@ -99,6 +101,7 @@ This repository houses list of articles and videos that cover practical aspects 
 ## People
 
 1. :memo:  Forget monoliths vs. microservices. Cognitive load is what matters. - [Link](https://techbeacon.com/app-dev-testing/forget-monoliths-vs-microservices-cognitive-load-what-matters)
+2. :video_camera: Monoliths vs Microservices is Missing the Point—Start with Team Cognitive Load - [Link](https://www.youtube.com/watch?v=haejb5rzKsM)
 
 ## Microservices Survey
 
@@ -107,7 +110,13 @@ This repository houses list of articles and videos that cover practical aspects 
 
 ## Real world Microservices architecture
 
-1. :memo: Medium: Microservice Architecture at Medium - [Link](https://medium.engineering/microservice-architecture-at-medium-9c33805eb74f)
+1. :memo: Microservice Architecture at Netflix - [Link](https://www.nginx.com/blog/microservices-at-netflix-architectural-best-practices/)
+2. :memo: Microservice Architecture  at Medium - [Link](https://medium.engineering/microservice-architecture-at-medium-9c33805eb74f)
+3. :memo: Microservice Architecture at Uber - [Link 1](https://eng.uber.com/service-oriented-architecture/) and [Link 2](https://eng.uber.com/microservice-architecture/)
+4. :memo: Microservice Architecture at Twitter - [Link 1](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/building-twitters-ad-platform-architecture-for-the-future.html), [Link 2](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/rebuild_twitter_public_api_2020.html), and [Link 3](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2017/the-infrastructure-behind-twitter-scale.html)
+5. :memo: Microservice Architecture at Amazon - [Link](http://highscalability.com/amazon-architecture)
+6. :memo: Microservice Architecture at Airbnb - [Link 1](https://medium.com/airbnb-engineering/building-services-at-airbnb-part-1-c4c1d8fa811b) and [Link 2](https://medium.com/airbnb-engineering/building-services-at-airbnb-part-3-ac6d4972fc2d)
+7. :memo: Microservice Architecture at Zolando - [Link](https://www.infoq.com/news/2016/02/Monolith-Microservices-Zalando/)
 
 ## Microservices Anti-patterns and Pitfalls
 
