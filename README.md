@@ -7,7 +7,7 @@ This repository has list of articles and videos that cover practical aspects of 
 ## Monolith first
 
 1. :memo: Monolith First - [Link](https://martinfowler.com/bliki/MonolithFirst.html)
-3. :memo: In Defence of the Monolith, [Part 1](https://www.infoq.com/articles/monolith-defense-part-1/) and [Part 2](https://www.infoq.com/articles/monolith-defense-part-2/)
+3. :memo: In Defence of the Monolith, [Link 1](https://www.infoq.com/articles/monolith-defense-part-1/) and [Link 2](https://www.infoq.com/articles/monolith-defense-part-2/)
 4. :memo: The Death of Microservice Madness in 2018 - [Link](https://dwmkerr.com/the-death-of-microservice-madness-in-2018/)
 5. :video_camera: Majestic Modular Monoliths - [Link](https://vimeo.com/233980163)
 5. :memo: The Majestic Monolith - [Link](https://m.signalvnoise.com/the-majestic-monolith/)
