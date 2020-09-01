@@ -4,6 +4,8 @@
 
 This repository has list of articles and videos that cover practical aspects of Microservices. It is not your just another awesome list. Its main purpose is to be useful rather than just another stupid list.
 
+Wait a minute, did that term "Microservices" is new for you & scares you? You are in for treat, make yourself comfortable with this small introduction video :) - [Link](https://youtu.be/SouNISAnXlo)
+
 ## Monolith first
 
 1. :memo: Monolith First - [Link](https://martinfowler.com/bliki/MonolithFirst.html)
