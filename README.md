@@ -80,6 +80,11 @@ This repository has list of articles and videos that cover practical aspects of 
 2. :video_camera: Practical Microservice Security - [Link](https://www.youtube.com/watch?v=CseYwoLjBb0)
 3. :video_camera: Top 10 Security Best Practices to secure your Microservices - [Link](https://www.youtube.com/watch?v=VtUQINsYXDM)
 
+## Observability
+
+1. :memo: Distributed Tracing — we’ve been doing it wrong - [Link](https://medium.com/@copyconstruct/distributed-tracing-weve-been-doing-it-wrong-39fc92a857df)
+2. :memo: Tracing at Slack: Thinking in Causal Graphs - [Link](https://slack.engineering/tracing-at-slack-thinking-in-causal-graphs/)
+
 ## Microservices Governance
 
 1. :memo: Microservices Technical Governance - [Link](https://medium.com/ibm-garage/microservices-technical-governance-f5aed10189d1)
