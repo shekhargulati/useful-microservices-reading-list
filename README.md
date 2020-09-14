@@ -69,10 +69,12 @@ This repository has list of articles and videos that cover practical aspects of 
 2. :memo: Why you need a microservices management platform and how to build it - [Link](https://blog.griddynamics.com/build-a-microservices-platform-for-replatforming/)
 
 
-## Service Mesh
+## Network, Proxies, and Service Mesh
 
-1. :memo: Everything We Learned Running Istio In Production - [Link](https://engineering.hellofresh.com/everything-we-learned-running-istio-in-production-part-1-51efec69df65)
+1. :memo: Introduction to modern network load balancing and proxying - [Link](https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236)
 2. :memo:  The evolution of L7, proxies, and microservices - [Link](https://blog.getambassador.io/the-evolution-of-l7-proxies-and-microservices-264381945f7d)
+3. :memo: How we migrated Dropbox from Nginx to Envoy - [Link](https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy)
+4. :memo: Everything We Learned Running Istio In Production - [Link](https://engineering.hellofresh.com/everything-we-learned-running-istio-in-production-part-1-51efec69df65)
 
 ## Security
 
