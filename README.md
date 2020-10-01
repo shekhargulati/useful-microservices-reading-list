@@ -20,7 +20,8 @@ This repository has list of articles and videos that cover practical aspects of 
 1. :memo: Microservice Prerequisites - [Link](https://martinfowler.com/bliki/MicroservicePrerequisites.html)
 3. :memo: Microservices Architecture Guidelines - [Link](https://github.com/justinamiller/Microservices-Architecture-Guidelines)
 3. :memo: Microservices: To Do or Not to Do - LInk - [Link](http://www.bestdevops.com/microservices-to-do-or-not-to-do/)
-4. :video_camera: Microservices by Martin Fowler - [Link](https://www.youtube.com/watch?v=wgdBVIX9ifA)
+4. :memo: Microservices — architecture nihilism in minimalism's clothes - [Link](https://vlfig.me/posts/microservices)
+5. :video_camera: Microservices by Martin Fowler - [Link](https://www.youtube.com/watch?v=wgdBVIX9ifA)
 
 ## Should it be a Microservice?
 
