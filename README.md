@@ -34,9 +34,10 @@ This repository has list of articles and videos that cover practical aspects of 
 3. :video_camera: Attack of the Monorepos - [Link](https://www.infoq.com/presentations/monorepos/)
 4. :memo: Put your Microservices in a Monorepo - [Link](https://blog.upcoding.fr/microservices-in-a-monorepo/)
 
-## Communication patterns
+## Patterns
 
 1. :memo: Communication in a microservice architecture - [Link](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/communication-in-microservice-architecture)
+2. :memo: On Pass-through services - [Link](https://shekhargulati.com/2021/09/09/why-is-it-ok-to-write-pass-through-services-in-a-microservices-architecture/)
 
 ## Shared libraries
 
