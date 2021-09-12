@@ -99,6 +99,7 @@ This repository has list of articles and videos that cover practical aspects of 
 2. :video_camera: Monolith Decomposition Patterns - [Link](https://www.infoq.com/presentations/microservices-principles-patterns/)
 3. :memo: 3 Strategies for implementing a microservices architecture - [Link](https://about.gitlab.com/blog/2019/06/17/strategies-microservices-architecture/)
 4. :memo: Untangling Microservices, or Balancing Complexity in Distributed Systems - [Link](https://vladikk.com/2020/04/09/untangling-microservices/)
+5. :memo: GitHub’s Journey from Monolith to Microservices - [Link](https://www.infoq.com/articles/github-monolith-microservices/)
 
 
 ## Microservices to Monolithic
